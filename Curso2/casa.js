@@ -19,7 +19,7 @@
 //const mostar2 = (nombre, edad) =>
 //    `El nombre es ${nombre}, y la edad es ${edad}`
 //
-//console.log(mostrar1("Luis", 20));
+//console.log(mostrar1('Luis', 20));
 //
 //console.log(mostar2('Hernán', 20));
 //
