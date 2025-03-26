@@ -1,5 +1,5 @@
 //const calculo = require("./module/calculos.js");
-//console.log(calculo.resta(55, 20));
+//console.log(calculo.resta(50, 20));
 //console.log(calculo.suma(50, 20));
 //
 
